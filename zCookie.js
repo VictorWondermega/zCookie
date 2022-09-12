@@ -5,7 +5,7 @@
 ////////////////////////////////////////////////////////////////
 
 function zCookie(za,a,n) {
-	/* Zagata.Window / PopUp */
+	/* Zagata.Cookie Alert */
 
 	this.za = (typeof(za)=='undefined')?false:za; // core
 	var a = (typeof(a)=='undefined')?false:a; // attr
