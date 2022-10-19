@@ -67,7 +67,7 @@ function zCookie(za,a,n) {
 	},
 	///////////////////////////////
 	// ini
-	// this.za.msg('dbg',this.n,'i am '+this.n+'(zCookie)');
+	this.za.msg('dbg',this.n,'i am '+this.n+'(zCookie)');
 	this.ax = false;
 	
 	// check cookie
