@@ -46,7 +46,6 @@ function zCookie(za,a,n) {
 
 			// show lightbox
 			var bx = this.parent.bx;
-			// this.za.msg('dbg',this.n,this.coobx);
 			bx.cnt(t).shw().pos();
 			
 			bx.bw.style.position='fixed'; bx.bs.style.display='none';
